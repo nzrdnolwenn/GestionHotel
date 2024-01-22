@@ -1,1 +1,3 @@
 # GestionHotel
+
+Présentation du projet : 
