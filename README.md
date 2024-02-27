@@ -10,3 +10,14 @@ L'architecture du projet suit les principes de l'orienté objet, utilisant des c
 
 # Organisation du Code
 Le code est organisé de manière à garantir la lisibilité, la maintenabilité et l'extensibilité. Les principaux concepts tels que l'héritage, la sérialisation, la gestion des exceptions et les collections sont clairement mis en évidence. Des tests approfondis ont été effectués pour garantir le bon fonctionnement de l'application.
+
+# Lancer le programme
+Pour lancer l'application il faut installer JDK21 et JavaFX
+Installer JavaFX
+Installer JDK21
+
+(N'oubliez pas d'installez Java 21, et JAVAFX, sans eux l'application n'est pas utilisable)
+
+# Lancer le programme sur IntelliJ
+
+![logo](https://github.com/nzrdnolwenn/GestionHotel/blob/main/NOCA%20Ho%CC%82tel.jpg)
