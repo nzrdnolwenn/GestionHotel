@@ -20,4 +20,4 @@ Installer JDK21
 
 # Lancer le programme sur IntelliJ
 
-![logo](https://github.com/nzrdnolwenn/GestionHotel/blob/main/NOCA%20Ho%CC%82tel.jpg)
+![logo](https://github.com/nzrdnolwenn/NOCAhotel/blob/main/Capture%20d%E2%80%99e%CC%81cran%202024-02-27%20a%CC%80%2012.27.38.png)
