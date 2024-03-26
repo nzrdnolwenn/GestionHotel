@@ -18,6 +18,5 @@ Installer JDK21
 
 (N'oubliez pas d'installez Java 21, et JAVAFX, sans eux l'application n'est pas utilisable)
 
-# Lancer le programme sur IntelliJ
+OU lancer le programme sur IntelliJ
 
-![logo](https://github.com/nzrdnolwenn/NOCAhotel/blob/main/Capture%20d%E2%80%99e%CC%81cran%202024-02-27%20a%CC%80%2012.27.38.png)
